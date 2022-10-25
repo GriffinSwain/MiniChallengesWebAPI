@@ -1,7 +1,8 @@
 //Griffin Parker
 //October 25, 2022
 //Mini Challenge #1 - All Challenges with Endpoints
-//Peer Review by:
+//This program contains all the mini challenges from 1-9, all of them full operational, except for the MadLibs program
+//Peer Review by: Jacob Dekok - The code looks great and is organized. The program works as intended.
 
 /* How to call the different programs cheatsheet
 https://localhost:xxxx/minichallenge/SayHello/{name}
@@ -14,7 +15,6 @@ https://localhost:xxxx/minichallenge/ReverseIt/{string}
 https://localhost:xxxx/minichallenge/RestaurantPicker/{"good", "bad" or "decent"}
 https://localhost:xxxx/minichallenge/Magic8Ball
 */
-
 using Microsoft.AspNetCore.Mvc;
 
 namespace MiniChallengesWebAPI.Controllers;
@@ -58,7 +58,7 @@ public class MiniChallengeController : ControllerBase
     [Route("MadLibs")]
     public string MadLibs()
     {
-        return "The End";
+        return "this will give you a whole story that has the different inputs made by the user incorporated into the story";
     }
 
     [HttpGet]
@@ -140,5 +140,6 @@ public class MiniChallengeController : ControllerBase
             return "this shouldn't be possible to reach...";
             break;
         }
+        return "Two lines?";
     }
     }
