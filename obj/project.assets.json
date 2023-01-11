@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesAPI\\MiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
+      "projectUniqueName": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\Completed\\MiniChallengesAPI\\ParkerGMiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
       "projectName": "MiniChallengesWebAPI",
-      "projectPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesAPI\\MiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
+      "projectPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\Completed\\MiniChallengesAPI\\ParkerGMiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
       "packagesPath": "C:\\Users\\truck\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesAPI\\MiniChallengesWebAPI\\obj\\",
+      "outputPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\Completed\\MiniChallengesAPI\\ParkerGMiniChallengesWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\truck\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFDEjr0Wl1I/jWQ5cIMUtkUQELf8Yz2qdrLyyvMnq2KC7pxu3p/UTXNyijzufR7rPm5yf/CD5kmJ693/ju2tSg==",
+  "dgSpecHash": "CMZlah3H1mZ43yJEIiqaKy+gl+9Nlk+AkAouysuRyMDuOLEYxFFuXgBGmsddUDKtVBvQtdO056eFy/OiXT1zjg==",
   "success": true,
-  "projectFilePath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesAPI\\MiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
+  "projectFilePath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\Completed\\MiniChallengesAPI\\ParkerGMiniChallengesWebAPI\\MiniChallengesWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truck\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\truck\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

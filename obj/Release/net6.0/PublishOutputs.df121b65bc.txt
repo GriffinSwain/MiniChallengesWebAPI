@@ -1,0 +1,11 @@
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.exe
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\appsettings.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.deps.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.runtimeconfig.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.pdb
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
