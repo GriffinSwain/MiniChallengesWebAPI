@@ -55,10 +55,10 @@ public class MiniChallengeController : ControllerBase
     }
 
     [HttpGet]
-    [Route("MadLibs")]
-    public string MadLibs()
+    [Route("MadLibs/{adjective}/{animal}/{adjest}/{verb}/{noise}/{character}/{noun2}/{bodypart}/{noun}/{name}")]
+    public string MadLibs(string adjective, string animal, string adjest, string verb, string noise, string character, string noun2, string bodypart, string noun, string name)
     {
-        return "this will give you a whole story that has the different inputs made by the user incorporated into the story";
+        return $"The {animal} was the {adjest} in the jungle. With a {adjective} {noise} it would {verb} {name}'s {bodypart} or find a {noun} to sleep on. It's loved anime and even had a {character} branded {noun2}";
     }
 
     [HttpGet]

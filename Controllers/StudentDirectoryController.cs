@@ -229,8 +229,8 @@ public class StudentDirectoryController : ControllerBase
     };
 
     [HttpGet]
-    [Route("GetStudentByFirstName/{studentFirstName}")]
-    public StudentListModel GetStudentByFirstName(string studentFirstName)
+    [Route("StudentLookUp/{studentInfo}")]
+    public StudentListModel GetStudentByInfo(string studentInfo)
     {
         StudentListModel result = new StudentListModel()
         {
@@ -244,7 +244,7 @@ public class StudentDirectoryController : ControllerBase
         {
             //Checking the studentsList firstName to our variable firstName
 
-            if (studentsList[i].firstName == studentFirstName)
+            if ((studentsList[i].firstName == studentInfo) || (studentsList[i].lastName == studentInfo) || (studentsList[i].slackName == studentInfo) || (studentsList[i].email == studentInfo) || (studentsList[i].hobbies == studentInfo))
             {
                 result = studentsList[i];
                 break;
