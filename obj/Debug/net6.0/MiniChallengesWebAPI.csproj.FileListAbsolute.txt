@@ -79,9 +79,3 @@ C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesAPI\ParkerGMiniChallen
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Debug\net6.0\MiniChallengesWebAPI.pdb
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Debug\net6.0\MiniChallengesWebAPI.genruntimeconfig.cache
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Debug\net6.0\ref\MiniChallengesWebAPI.dll
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\MiniChallengesWebAPI.exe
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\MiniChallengesWebAPI.dll
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -25,3 +25,8 @@ C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGM
 C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Release\net6.0\MiniChallengesWebAPI.pdb
 C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Release\net6.0\MiniChallengesWebAPI.genruntimeconfig.cache
 C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\obj\Release\net6.0\ref\MiniChallengesWebAPI.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\appsettings.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.deps.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\MiniChallengesWebAPI.runtimeconfig.json
+C:\Desktop\Desktop\Homework\Mini Challenges\Completed\MiniChallengesAPI\ParkerGMiniChallengesWebAPI\bin\Release\net6.0\publish\web.config
