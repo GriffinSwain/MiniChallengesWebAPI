@@ -27,7 +27,7 @@ public class MiniChallengeController : ControllerBase
     [Route("SayHello/{name}")]
     public string SayHello(string name)
     {
-        return $"Hello {name}! You are using me.";
+        return $"Welcome {name}...";
     }
 
     [HttpGet]
@@ -55,10 +55,10 @@ public class MiniChallengeController : ControllerBase
     }
 
     [HttpGet]
-    [Route("MadLibs/{adjective}/{animal}/{adjest}/{verb}/{noise}/{character}/{noun2}/{bodypart}/{noun}/{name}")]
-    public string MadLibs(string adjective, string animal, string adjest, string verb, string noise, string character, string noun2, string bodypart, string noun, string name)
+    [Route("MadLibs/{exclamation}/{name}/{adjest}/{animal}/{bodypart}/{verb}/{character}/{adjective}/{noise}/{verbs}")]
+    public string MadLibs(string exclamation, string name, string adjest, string animal, string bodypart, string verb, string character, string adjective, string noise, string verbs)
     {
-        return $"The {animal} was the {adjest} in the jungle. With a {adjective} {noise} it would {verb} {name}'s {bodypart} or find a {noun} to sleep on. It's loved anime and even had a {character} branded {noun2}";
+        return $"{exclamation}!! You've been sent to the principal's office!! You've never seen them yourself, but your best friend {name} says that they're the {adjest} principal in the whole world!! You didn't think that dropping a live {animal} into Billy Hinger's pants was going to cause all this trouble... how would you have known that it was going to bite clean through his {bodypart}? On your way through the halls, you stop at the bathroom, {verb} some cold water on your face and say a quick prayer to {character} to help you get through this trying time... You've arrived at the principals office and the office lady is staring at you with a {adjective} look on her face the whole time you're waiting. Finally, the door swings open seemingly on its own, and a {noise} {verbs} out at you from the inky blackness beyond. You tremulously take a few steps in to the black void of the office when the lights flicker on. You can't believe your eyes... {character} is behind the desk! They kick their feet up, chuckle to themselves, and look at you with a grin on their face 'So what's all this I hear about a {animal} and Billy Hinger's {bodypart}?'";
     }
 
     [HttpGet]
@@ -66,8 +66,8 @@ public class MiniChallengeController : ControllerBase
     public string OddOrEven(int number)
     {
     if(number % 2 == 0)
-    {return "This is an even number";
-    }else return "this is an odd number";
+    {return $"{number} is an even number";
+    }else return $"{number} is an odd number";
     }
 
     [HttpGet]
@@ -76,7 +76,7 @@ public class MiniChallengeController : ControllerBase
     {
     string reverse = ""; 
     for(int i = input.Length - 1; i >= 0; i--) reverse = reverse + input[i];
-    return $"{input} backwards is {reverse}";
+    return $"A voice answers back '{reverse}'";
     }
 
     [HttpGet]
