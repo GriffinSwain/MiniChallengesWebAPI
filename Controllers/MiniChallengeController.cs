@@ -6,10 +6,10 @@
 
 /* How to call the different programs cheatsheet
 https://localhost:xxxx/minichallenge/SayHello/{name}
-https://localhost:xxxx/minichallenge/Add2Numbers/{num1}/{num2}
-https://localhost:xxxx/minichallenge/Questions/{name}/{time}
-https://localhost:xxxx/minichallenge/GreaterLess/{num1}/{num2}
-https://localhost:xxxx/minichallenge/MadLibs
+https://localhost:xxxx/minichallenge/AddingNumbers/{num1}/{num2}
+https://localhost:xxxx/minichallenge/AskingQuestions/{name}/{time}
+https://localhost:xxxx/minichallenge/GreaterOrLess/{num1}/{num2}
+https://localhost:xxxx/minichallenge/MadLibs/{exclamation}/{name}/{adjest}/{animal}/{bodypart}/{verb}/{character}/{adjective}/{noise}/{verbs}
 https://localhost:xxxx/minichallenge/OddOrEven/{number}
 https://localhost:xxxx/minichallenge/ReverseIt/{string}
 https://localhost:xxxx/minichallenge/RestaurantPicker/{"good", "bad" or "decent"}
