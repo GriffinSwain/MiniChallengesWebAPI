@@ -1,3 +1,8 @@
+
+//To call this end point \/\/\/
+// https://griffinminichapi.azurewebsites.net/StudentDirectory/StudentLookUp/{StudentInfo}
+
+
 using Microsoft.AspNetCore.Mvc;
 using StudentDirectoryApi.Models;
 

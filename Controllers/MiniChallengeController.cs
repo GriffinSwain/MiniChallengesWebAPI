@@ -5,15 +5,15 @@
 //website that will be called upon by the other half of the code.
 
 /* How to call the different programs cheatsheet
-https://localhost:xxxx/minichallenge/SayHello/{name}
-https://localhost:xxxx/minichallenge/AddingNumbers/{num1}/{num2}
-https://localhost:xxxx/minichallenge/AskingQuestions/{name}/{time}
-https://localhost:xxxx/minichallenge/GreaterOrLess/{num1}/{num2}
-https://localhost:xxxx/minichallenge/MadLibs/{exclamation}/{name}/{adjest}/{animal}/{bodypart}/{verb}/{character}/{adjective}/{noise}/{verbs}
-https://localhost:xxxx/minichallenge/OddOrEven/{number}
-https://localhost:xxxx/minichallenge/ReverseIt/{string}
-https://localhost:xxxx/minichallenge/RestaurantPicker/{"good", "bad" or "decent"}
-https://localhost:xxxx/minichallenge/Magic8Ball
+https://griffinminichapi.azurewebsites.net/minichallenge/SayHello/{name}
+https://griffinminichapi.azurewebsites.net/minichallenge/AddingNumbers/{num1}/{num2}
+https://griffinminichapi.azurewebsites.net/minichallenge/AskingQuestions/{name}/{time}
+https://griffinminichapi.azurewebsites.net/minichallenge/GreaterOrLess/{num1}/{num2}
+https://griffinminichapi.azurewebsites.net/minichallenge/MadLibs/{exclamation}/{name}/{adjest}/{animal}/{bodypart}/{verb}/{character}/{adjective}/{noise}/{verbs}
+https://griffinminichapi.azurewebsites.net/minichallenge/OddOrEven/{number}
+https://griffinminichapi.azurewebsites.net/minichallenge/ReverseIt/{string}
+https://griffinminichapi.azurewebsites.net/minichallenge/RestaurantPicker/{"good", "bad" or "decent"}
+https://griffinminichapi.azurewebsites.net/minichallenge/Magic8Ball
 */
 using Microsoft.AspNetCore.Mvc;
 
