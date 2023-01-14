@@ -1,8 +1,8 @@
 //Griffin Parker
-//October 25, 2022
-//Mini Challenge #1 - All Challenges with Endpoints
-//This program contains all the mini challenges from 1-9, all of them full operational, except for the MadLibs program
-//Peer Review by: Jacob Dekok - The code looks great and is organized. The program works as intended.
+//January 13, 2023
+//All For One Sprint - endpoints code
+//This program is half of the code for the All For One Sprint. It contains the code uploaded to an azure 
+//website that will be called upon by the other half of the code.
 
 /* How to call the different programs cheatsheet
 https://localhost:xxxx/minichallenge/SayHello/{name}
